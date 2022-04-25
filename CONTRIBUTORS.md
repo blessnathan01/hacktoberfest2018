@@ -100,7 +100,7 @@
  - Bio: Developer and graphic designer
  - Email: blessingnathaniel01@gmail.com
  - Twitter: [@blessnathan01](https://twitter.com/blessnathan01)
- - GitHub: [Blessing-Nathaniel](https://github.com/Blessing-Nathaniel)
+ - GitHub: [blessnathan01](https://github.com/blessnathan01)
 
 #### Name: Frank John
  - Place: Kinondoni , Dar es Salaam, Tanzania
