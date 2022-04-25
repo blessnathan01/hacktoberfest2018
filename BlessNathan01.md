@@ -1,4 +1,4 @@
-# Blessing Nathaniel
+# Blessing Nathaniel Rweikiza
 
 ### Location
 
@@ -6,18 +6,35 @@ Dar es Salaam, Tanzania
 
 ### Academics
 
-University of Dar es Salaam, Tanzania
+- Holberton School of Software Engineering (ALX), International
+- University of Dar es Salaam, Tanzania
 
 ### Interests
 
-- Pure Development
+- Chatbot Development
 - JavaScript
+- ReactJS
+- CommerceJS
 - Data Science & Machine Learning
+- Python
+- Django
+- Flask
+- NodeJS
+- PHP
+- Laravel
+- C
+- Java
+- C++
+- Rust
+- R
 
 ### Projects
 
-- [blessnathan](https://github.com/blessnathan) Job Seaching Website
+- View my [Portfolio](https://linktr.ee/blessnathan01)
 
-### Profile Link
+### Profile Links
 
-[Blessing Nathaniel](blessnathan)
+- [GitHub](https://github.com/blessnathan01)
+- [LinkedIn](https://linkedin.com/in/blessnathan01)
+- [Instagram](https://instagram.com/blessnathan02)
+- [Facebook](https://facebook.com/blessnathan01)
